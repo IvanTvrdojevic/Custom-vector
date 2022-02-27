@@ -1,0 +1,120 @@
+﻿  itVector.hpp
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(10,26): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(22,47): error C2187: syntax error: ')' was unexpected here
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(22,49): error C3878: syntax error: unexpected token 'identifier' following 'expression'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(22,49): message : error recovery skipped: 'identifier --'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(22,64): error C2760: syntax error: ';' was unexpected here; expected ')'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(32,26): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(33,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(35,6): error C2065: 'currentNumOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(35,6): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(37,2): error C2065: 'currentNumOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(37,2): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(38,16): error C2672: 'allocateMemory': no matching overloaded function found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(38,16): error C2783: 'void allocateMemory(void)': could not deduce template argument for 'vectorType'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(10): message : see declaration of 'allocateMemory'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(38,16): message : 'allocateMemory': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(40,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(52,21): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(52,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(53,2): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(54,2): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(57,2): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(57,30): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(58,6): error C2065: 'array': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(58,6): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(58,15): error C3861: 'NULL': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(62,21): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(62,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(63,2): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(64,2): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(66,2): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(66,30): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(67,6): error C2065: 'array': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(67,6): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(67,15): error C3861: 'NULL': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(71,21): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(71,67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(72,2): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(73,2): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(75,2): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(75,30): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(76,6): error C2065: 'array': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(76,6): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(76,15): error C3861: 'NULL': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(77,22): error C2065: 'numOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(77,22): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(78,3): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,21): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,37): error C2039: 'initializer_list': is not a member of 'std'
+C:\Users\User\Desktop\OOP\Vector\Vector\predefined C++ types (compiler internal)(341): message : see declaration of 'std'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,31): error C2988: unrecognizable template declaration/definition
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,31): error C2059: syntax error: '('
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,1): error C7568: argument list missing after assumed function template 'initializer_list'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,76): error C2143: syntax error: missing ';' before '{'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82,76): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(98,33): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(98,1): error C2768: 'itVector': illegal use of explicit template arguments
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(99,9): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(105,26): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(106,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(108,2): error C2065: 'currentNumOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(108,2): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(109,16): error C2672: 'allocateMemory': no matching overloaded function found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(109,16): error C2783: 'void allocateMemory(void)': could not deduce template argument for 'vectorType'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(10): message : see declaration of 'allocateMemory'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(109,16): message : 'allocateMemory': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(111,6): error C2065: 'array': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(111,6): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(111,15): error C3861: 'NULL': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(112,2): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(112,8): error C2065: 'numOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(112,8): error C3861: 'numOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(114,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(118,32): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(119,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(121,6): error C2065: 'currentNumOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(121,6): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(122,6): error C2065: 'array': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(122,6): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(122,15): error C3861: 'NULL': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(124,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(125,9): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(125,15): error C2065: 'currentNumOfElements': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(125,15): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(129,32): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(130,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(132,31): error C2672: 'peek': no matching overloaded function found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(132,31): error C2783: 'vectorType peek(void)': could not deduce template argument for 'vectorType'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(118): message : see declaration of 'peek'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(132,31): message : 'peek': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(133,7): error C2065: 'lastOperation': undeclared identifier
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(133,7): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(135,12): error C2672: 'removeLast': no matching overloaded function found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(135,12): error C2783: 'void removeLast(void)': could not deduce template argument for 'vectorType'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(32): message : see declaration of 'removeLast'
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(135,12): message : 'removeLast': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(137,2): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(144,26): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(145,9): error C3861: 'lastOperation': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(149,25): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(150,9): error C3861: 'currentNumOfElements': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(154,26): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(155,2): error C3861: 'array': identifier not found
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(159,33): error C2653: 'itVector': is not a class or namespace name
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(160,9): error C3861: 'array': identifier not found
+  test.cpp
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(83,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(82): message : while compiling class template member function 'itVector<int>::itVector(std::initializer_list<vectorType>)'
+          with
+          [
+              vectorType=int
+          ]
+C:\Users\User\Desktop\OOP\Vector\Vector\test.cpp(8): message : see reference to function template instantiation 'itVector<int>::itVector(std::initializer_list<vectorType>)' being compiled
+          with
+          [
+              vectorType=int
+          ]
+C:\Users\User\Desktop\OOP\Vector\Vector\test.cpp(5): message : see reference to class template instantiation 'itVector<int>' being compiled
+C:\Users\User\Desktop\OOP\Vector\Vector\itVector.hpp(84,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
